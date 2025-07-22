@@ -1,6 +1,7 @@
 loopback joker
 uno dos tres chico
 <<<<<<< HEAD
+<<<<<<< HEAD
 diez
 tressssss
 kuplinov info 
@@ -11,3 +12,7 @@ And
 diez cinco cuarto seiz 
 
 >>>>>>> parent of 2448d9d (ADD one str)
+=======
+diez cinco cuarto seiz 
+ADD A NEW STRING ++++----- 1212312321313
+>>>>>>> parent of e5d6ff9 (new homepage -old)
